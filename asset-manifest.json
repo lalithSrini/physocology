@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/lalithSrini/physocology/static/css/main.89ab0583.css",
-    "main.js": "/lalithSrini/physocology/static/js/main.0b51f345.js",
+    "main.js": "/lalithSrini/physocology/static/js/main.ef932863.js",
     "static/js/453.0d6f335e.chunk.js": "/lalithSrini/physocology/static/js/453.0d6f335e.chunk.js",
     "index.html": "/lalithSrini/physocology/index.html",
     "main.89ab0583.css.map": "/lalithSrini/physocology/static/css/main.89ab0583.css.map",
-    "main.0b51f345.js.map": "/lalithSrini/physocology/static/js/main.0b51f345.js.map",
+    "main.ef932863.js.map": "/lalithSrini/physocology/static/js/main.ef932863.js.map",
     "453.0d6f335e.chunk.js.map": "/lalithSrini/physocology/static/js/453.0d6f335e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.89ab0583.css",
-    "static/js/main.0b51f345.js"
+    "static/js/main.ef932863.js"
   ]
 }
